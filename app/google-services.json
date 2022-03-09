@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155107623117",
+    "project_id": "cbmessenger-fc08b",
+    "storage_bucket": "cbmessenger-fc08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155107623117:android:28791b465b3900d0f8a984",
+        "android_client_info": {
+          "package_name": "com.android.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155107623117-83g4hrhkqs9tgne6j1qt8834hd5iqfi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_C3VfYF9oJXADhPHqRiHWqy7O-J32qGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155107623117-83g4hrhkqs9tgne6j1qt8834hd5iqfi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
